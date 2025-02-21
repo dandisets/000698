@@ -34,8 +34,8 @@ assetsSummary:
   - CompassDirection
   - BehavioralTimeSeries
   - Position
-citation: Balakrishnan, Kaarthik A (2023) Constant temperature behavior 18C (Version
-  draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Constant temperature
+  behavior 18C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000698/draft
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -49,10 +49,15 @@ contributor:
   roleName:
   - dcite:DataCollector
   schemaKey: Person
+- email: haesemeyer.1@osu.edu
+  identifier: 0000-0003-2704-3601
+  includeInCitation: true
+  name: Haesemeyer, Martin
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2023-11-11T15:40:52.415596+00:00'
-datePublished: '2023-11-13T21:32:34.112096+00:00'
 description: Fish swimming behavior in light at constant 18C
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000698/draft
 identifier: DANDI:000698
@@ -63,18 +68,6 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000698/versions/draft/assets/
 name: Constant temperature behavior 18C
 protocol: []
-publishedBy:
-  endDate: '2023-11-13T21:32:34.112096+00:00'
-  id: urn:uuid:412fbb4b-a9ae-4667-9b5d-5644a276afa3
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-11-13T21:32:34.112096+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:37a55238-0c41-48c1-8536-56be3669f6bf
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
