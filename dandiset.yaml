@@ -35,7 +35,7 @@ assetsSummary:
   - BehavioralTimeSeries
   - Position
 citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Constant temperature
-  behavior 18C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000698/draft
+  behavior 18C (Version 0.250814.1912) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000698/0.250814.1912
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -59,14 +59,15 @@ contributor:
 dateCreated: '2023-11-11T15:40:52.415596+00:00'
 datePublished: '2025-08-14T19:12:11.944416+00:00'
 description: Fish swimming behavior in light at constant 18C
+doi: 10.48324/dandi.000698/0.250814.1912
 ethicsApproval: []
-id: DANDI:000698/draft
+id: DANDI:000698/0.250814.1912
 identifier: DANDI:000698
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000698/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000698/0.250814.1912/assets.yaml
 name: Constant temperature behavior 18C
 protocol: []
 publishedBy:
@@ -86,6 +87,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000698/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000698/0.250814.1912
+version: 0.250814.1912
 wasGeneratedBy: []
